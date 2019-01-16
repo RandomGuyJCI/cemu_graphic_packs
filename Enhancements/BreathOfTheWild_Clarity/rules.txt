@@ -46,9 +46,9 @@ name = Contrasty Preset
 $preset:int = 4
 
 [Preset]
-name = Filmic Preset Preset
+name = Filmic Preset
 $preset:int = 6
 
 [Preset]
-name = User Defined Preset
+name = User-Defined Preset
 $preset:int = 0
